@@ -1,0 +1,7 @@
+.index-read-more {
+    color: var(--background);
+}
+
+.index-read-more:hover {
+    background: var(--accent);
+}
